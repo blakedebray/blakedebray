@@ -53,6 +53,10 @@ I strive to always be self-aware, pausing before reacting, and having a deeper u
 
 I believe in modeling curiousity, especially in situations where I don't agree or have an initial, negative reaction.
 
+## 📘 Human User Guide
+
+Want to learn how my values, strengths, and weaknesses come into play with how I interact with others? Check out my [Human User Guide](./human-user-guide.md).
+
 ## :books: Resources/Experiences that inspires me
 
 * Book: [Leadership is Language by L. David Marquet](https://www.goodreads.com/book/show/42774083-leadership-is-language)
