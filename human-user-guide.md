@@ -1,6 +1,10 @@
-# ♥️ [@blakedebray's](https://gh.io/blakedebray) Human User Guide 
+# ♥️ @blakedebray's Human User Guide 
+
+👋 Hello there! This is a great place to learn more about how I like to interact with, and show up for others. Think of this as the current version of how I do so, I am always learning and changing. If you see something that is missing about me from your perspective, I would love to hear it!
 
 ## 👤 About me
+
+You can learn more about my values, what motivates me, and more in the [README](./README.md) about...me.
 
 ### What are some honest, unfiltered things about you?
 - I am an introvert, but often considered a social one. I tend to take some time to feel safe to participate in new social situations and with new people but once I feel comfortable I might need some encouragement to shut up 😄. I need time away from people to recharge. For example, workshops and collaboration spaces are a blast, but I am exhausted afterwards. 
