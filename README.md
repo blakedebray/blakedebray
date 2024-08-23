@@ -8,6 +8,8 @@ This space is a way to get to know more about me: what gives me purpose, what mo
 
 If you want to get in touch to connect, discuss _anything_, or collaborate, you can message me on [LinkedIn](https://www.linkedin.com/in/blakedebray/)!
 
+If you want to learn how my values, strengths, and weaknesses come into play with how I interact with others? Check out my [Human User Guide](./human-user-guide.md).
+
 ## :compass: My Purpose and Aspirations
 To be energized and overjoyed through positively impacting the lives of others (and the world) by supporting them to discover the next best version of themselves.
 
@@ -53,19 +55,20 @@ I strive to always be self-aware, pausing before reacting, and having a deeper u
 
 I believe in modeling curiousity, especially in situations where I don't agree or have an initial, negative reaction.
 
-## 📘 Human User Guide
-
-Want to learn how my values, strengths, and weaknesses come into play with how I interact with others? Check out my [Human User Guide](./human-user-guide.md).
-
 ## :books: Resources/Experiences that inspires me
 
 * Book: [Leadership is Language by L. David Marquet](https://www.goodreads.com/book/show/42774083-leadership-is-language)
 * Book: [Nonviolent Communication: A Language of Life by Marshall B. Rosenberg](https://www.goodreads.com/book/show/71730.Nonviolent_Communication)
 * Book: [Unlocking Leadership Mindtraps: How to Thrive in Complexity by Jennifer Garvey Burger](https://www.goodreads.com/book/show/43164158-unlocking-leadership-mindtraps)
 * Book: [The Fearless Organization: Creating Psychological Safety in the Workplace for Learning, Innovation, and Growth by Amy C. Edmondson](https://www.goodreads.com/book/show/40275161-the-fearless-organization)
+* Book: [The Art & Science of Facilitation: How to Lead Effective Collaboration with Agile Teams by Marsha Acker](https://www.goodreads.com/book/show/56575741-the-art-science-of-facilitation?from_search=true&from_srp=true&qid=5VlA7hHU8e&rank=1)
+* Book: [Actionable Agile by Daniel S. Vacanti](https://www.goodreads.com/book/show/25867120-actionable-agile-metrics-for-predictability)
+* Book: [The Tyranny of Metrics by Jerry Z. Muller](https://www.goodreads.com/book/show/36644895-the-tyranny-of-metrics)
+* Book: [The Principles of Product Development Flow: Second Generation Lean Product Development by Donald G. Reinertsen](https://www.goodreads.com/book/show/6278270-the-principles-of-product-development-flow?from_search=true&from_srp=true&qid=swp1m3fEah&rank=1)
+* Book: [Inspired: How to Create Tech Products Customers Love by Marty Cagan](https://www.goodreads.com/book/show/35249663-inspired?from_search=true&from_srp=true&qid=0BubMNrWNf&rank=1)
 * Training: [Agile People](https://agilepeople.com/)
 * Training: [Kansas Leadership Institute: Leadership Coach Intensive](https://kansasleadershipcenter.org/intensives/)
 * Coaches (who have coached me and/or that I have had the pleasure to partner with): [Susie Coultis](https://www.linkedin.com/in/susie-coultis-3b63a0), [Rachel Salzberg](https://www.linkedin.com/in/rachel-salzberg-9b59622/), [Barbara Acevedo Visser](https://www.linkedin.com/in/barbara-acevedo-visser/)
 * Self-Assessment and Training: [Reiss Motivation Profile](https://www.reissmotivationprofile.com/)
-* Book: [Actionable Agile by Daniel S. Vacanti](https://www.goodreads.com/book/show/25867120-actionable-agile-metrics-for-predictability)
-* Book: [The Tyranny of Metrics by Jerry Z. Muller](https://www.goodreads.com/book/show/36644895-the-tyranny-of-metrics)
+* [International Coaching Federation](https://coachingfederation.org/)
+
