@@ -1,6 +1,8 @@
 # ♥️ @blakedebray's Human User Guide 
 
-👋 Hello there! This is a great place to learn more about how I like to interact with, and show up for others. Think of this as the current version of how I do so, I am always learning and changing. If you see something that is missing about me from your perspective, I would love to hear it!
+👋 Hello there! This is a great place to learn more about how I like to interact with, and show up for others. Think of this as the current version of how I do so. I am always learning and changing, so expect to see changes over time. 
+
+If you see something that is missing about me from your perspective, I would love to hear it!
 
 ## 👤 About me
 
@@ -24,11 +26,20 @@ You can learn more about my values, what motivates me, and more in the [README](
 - I tend to fall into the mindtrap of filling in the gaps with simple stories; mostly about worst case scenarios that others are (but probably not) thinking about me. If I end up in this state, it can consume my thoughts until I resolve it. I can handle honest and direct feedback but it is what is unsaid that I struggle with.
 - I organize via disorganization (don't look at my desk!); strange for someone who often helps others plan.
 - I often respond by asking questions. It is a part of my love for learning, my frustration for when I am missing the context, and my coaching background.
+- I am not great and awkward at small talk; I would rather get into a topic deeply with others.
 
 ### What are some things that people might misunderstand about you that you should clarify?
 - I often share ideas before I vett/filter them myself (if I feel safe in doing so). I will often change my mind or retract something I share later. 
 - Silence doesn't mean lack of interest. I need to listen and digest before sharing ideas. However, if I don't feel safe yet I might hesitate speaking up.
 - I am primarily driven by my emotions (with a healthy splash of logical thinking); but my emotions don't always show up in my facial expressions.
+
+### How do you deal with stress?
+- I do not like stressful situations that are needlessly so; and will not respond as well in such situations.
+- Am a contradiction: I need time alone while also sharing with someone else for processing.
+- I take a long time to process stressful situations, and they sit with me for a long time. There is a risk of it becoming something I dwell on if I don't move towards action/resolution.
+- I typically seek coaching (more so than advice).
+- I disconnect, find an activity to temporarily take my mind off things.
+- I reconnect with Nature.
 
 ## 👥 About my colleagues
 
@@ -45,6 +56,8 @@ You can learn more about my values, what motivates me, and more in the [README](
 
 ### How can people earn an extra gold star with you?
 - Based on my themes from above: include others, share and learn openly, create a safe and trusting space for collaboration.
+- Collaborate on ideas over invididualism/heroism.
+- Co-create, share ideas, look at work as shared play.
 - Be vulnerable.
 - Talk about nerdy stuff (I love all things Sci-Fi, Fantasy, books, video games, tabletop games, etc).
 
