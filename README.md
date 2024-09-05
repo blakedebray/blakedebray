@@ -2,7 +2,7 @@
 
 :wave: Hello there!
 
-My name is Blake. I am a practicing Professional Coach, an experienced Agile Coach, and a former Engineer (once upon a time). 
+My name is Blake. I am a Program Manager, practicing Professional Coach, an experienced Agile Coach, and a former Engineer (once upon a time). 
 
 This space is a way to get to know more about me: what gives me purpose, what motivates me, my experiences, and my philosophy on things from coaching to organizational development. 
 
