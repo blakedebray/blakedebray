@@ -2,7 +2,7 @@
 
 :wave: Hello there!
 
-My name is Blake. I am a Program Manager, practicing Professional Coach, an experienced Agile Coach, and a former Engineer (once upon a time). 
+My name is Blake. I am a Program Manager, practicing Professional Coach, an experienced Agile Coach, and a former Engineer (once upon a time).
 
 This space is a way to get to know more about me: what gives me purpose, what motivates me, my experiences, and my philosophy on things from coaching to organizational development. 
 
@@ -11,7 +11,7 @@ If you want to get in touch to connect, discuss _anything_, or collaborate, you 
 If you want to learn how my values, strengths, and weaknesses come into play with how I interact with others? Check out my [Human User Guide](./human-user-guide.md).
 
 ## :compass: My Purpose and Aspirations
-To be energized and overjoyed through positively impacting the lives of others (and the world) by supporting them to discover the next best version of themselves.
+To positively impact and enable the lives of others (and the world) by supporting them to discover the next best version of themselves.
 
 ## :sparkling_heart: My Values
 
@@ -54,6 +54,10 @@ I can easily empathize and have compassion for others, feel their predicament an
 I strive to always be self-aware, pausing before reacting, and having a deeper understanding of my emotions and triggers. In situations of conflict, I externally express the trigger, reaction, and what I am learning from each experience in order to create a safe space for others to do so as well.
 
 I believe in modeling curiousity, especially in situations where I don't agree or have an initial, negative reaction.
+
+### Curiousity
+
+I have a strong curiousity and desire to learn, whether it is to read something new, try something new, or to learn a process in order to contribute towards making it better.
 
 ## :books: Resources/Experiences that inspires me
 
