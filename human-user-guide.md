@@ -34,9 +34,9 @@ You can learn more about my values, what motivates me, and more in the [README](
 - I am primarily driven by my emotions (with a healthy splash of logical thinking); but my emotions don't always show up in my facial expressions.
 
 ### How do you deal with stress?
-- I do not like stressful situations that are needlessly so; and will not respond as well in such situations.
+- I will often pause and leverage my experience in coaching in stressful situations, for myself and others.
 - Am a contradiction: I need time alone while also sharing with someone else for processing.
-- I take a long time to process stressful situations, and they sit with me for a long time. There is a risk of it becoming something I dwell on if I don't move towards action/resolution.
+- I take a time to process stressful situations, and they can sit with me for a long time. There is a risk of it becoming something I dwell on if I don't move towards action/resolution.
 - I typically seek coaching (more so than advice).
 - I disconnect, find an activity to temporarily take my mind off things.
 - I reconnect with Nature.
@@ -50,7 +50,7 @@ You can learn more about my values, what motivates me, and more in the [README](
 - Expression through emojis and GIFs (also, I don't care how you pronounce it).
 
 ### What do you wish colleagues didn’t do?
-- Play politics; or the not pleasant kind like backstabbing or plotting against others. I am a peacemaker and prefer to work towards a common goal together.
+- Play politics (the not pleasant kind like backstabbing or plotting against others). I am a peacemaker and prefer harmony, working together towards a common goal.
 - Use power over collaboration or influence. "Let's find out together" instead of "because I said so".
 - Assume I know or have the context (terminology, acronyms, history, etc). I will do my best and speak up when I am missing something, but when I have spent my daily extrovert points I might hesistate.
 
@@ -64,7 +64,7 @@ You can learn more about my values, what motivates me, and more in the [README](
 ## 📑 About my interactions
 
 ### How do you coach people to do their best work and develop their talents?
-- Be curious and be present.
+- Be curious and be **fully present**.
 - Actively listen. In a lot of cases, people just need someone to listen. They will often answer their own questions/problems. I have been guilty of feeding the "advice monster" too quickly.
 - Lead with empathy. Understand and respect their perspective and offer alternatives.
 - Be intentional and transparent about the stances you are taking. If the right thing is to teach/advise/mentor/coach, let them know (or better yet, ask for permission).
@@ -72,19 +72,20 @@ You can learn more about my values, what motivates me, and more in the [README](
 - Approach work as a learning problem. Experiment and learn.
 	
 ### What’s the best way to communicate with you?
-- I like starting with chat (slack), but with my tendancy to create simple stories on any misunderstandings/misinterpretations in written communication, I will eventually need real-time (zoom) conversations if necessary.
+- Directly, to avoid the tendancy to create simple stories on any misunderstandings/misinterpretations in written communication.
 - Even as an introvert, I sometimes crave the real-time conversations just to connect with other humans.
 	
 ### What’s the best way to convince you to do something?
 - My "how do I coach others" list applies to me as well.
 - Start with the "why" and I will likely be on board.
+- By being part of something that will have positive impact on people.
 - Ask for me to participate in thoughts, ideas and giving feedback.
 - Create a space of high psychological safety, where it is safe to ask questions, to not have all of the answers, and to try something new.
 	 
 ### How do you like to give feedback?
-- In a real-time conversations. My "fill in the gaps" quirk would kick in if I sent it in slack. I would fear that any feedback would be misinterpreted.
+- In a real-time conversations.
 
 ### How do you like to get feedback?
 - Similar to how I prefer to offer feedback with others. In real-time chat.
 - Give me honest feedback with kindness.
-- Use tools such as SBI and Non-Violent Communication (or Compassionate Communication if you prefer). I want to understand the impact an action or my behavior has created (good or bad).
+- Use tools such as SBI and Nonviolent Communication (or Compassionate Communication if you prefer). I want to understand the impact an action or my behavior has created, how others feel, and how I can contribute to their needs.
