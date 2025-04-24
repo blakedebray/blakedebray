@@ -66,21 +66,21 @@ Here are a few workshops, presentations, or other tools I have created over the 
 > [!NOTE]
 > 🚧 Under construction with links and resources to each item coming soon!
 
-### 📽️ Presentations
+### Presentations
 
 * Coaching as Leaders: Presence
 * Reframing Conflict: The Superpower of Nonviolent Communication ([AgileKC](https://www.meetup.com/agile-kc/events/304365518/?eventOrigin=group_events_list))
 * Organizational Agility is a Journey ([AgileKC](https://www.meetup.com/agile-kc/events/271192501/?eventOrigin=group_events_list))
 * Test-Driven Value Proposition: Using Lean Startup Practices to Define Better Customer Value ([Lean-Agile KC 2015](https://2015.leanagilekc.com/sessions/test-driven-value-propositions/)
 
-### 🛠️ Workshops
+### Workshops
 
 * Team Canvas Expanded
 * Creating a Reiss Motivation Profile to Navigate Conflict Together
 * Learning How Six Thinking Hats to Experience Different Perspectives
 * Lateral Thinking for Greater Creativity and Collaboration
 
-### 🧰 Resources
+### Resources
 
 * An open source [Individual Development Plan](https://github.com/blakedebray/individual-development-plan) using GitHub Issues, Projects, and Actions
 * [Jira Connect](https://github.com/blakedebray/jiraconnect): Using your Jira data for better understanding your Flow Metrics
