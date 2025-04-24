@@ -84,6 +84,13 @@ Here are a few workshops, presentations, or other tools I have created over the 
 
 * An open source [Individual Development Plan](https://github.com/blakedebray/individual-development-plan) using GitHub Issues, Projects, and Actions
 * [Jira Connect](https://github.com/blakedebray/jiraconnect): Using your Jira data for better understanding your Flow Metrics
+ 
+### Programs
+
+* Creating an internal 1:1 coaching program
+* Creating a group coaching program
+* Creating an immersive and unique Onboarding program
+* Creating a community for Managers
 
 ## :books: Resources/Experiences that inspires me
 
