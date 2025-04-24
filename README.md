@@ -59,6 +59,32 @@ I believe in modeling curiousity, especially in situations where I don't agree o
 
 I have a strong curiousity and desire to learn, whether it is to read something new, try something new, or to learn a process in order to contribute towards making it better.
 
+## 🎒Portfolio
+
+Here are a few workshops, presentations, or other tools I have created over the years that I would like to share.
+
+> [!NOTE]
+> 🚧 Under construction with links and resources to each item coming soon!
+
+### 📽️ Presentations
+
+* Coaching as Leaders: Presence
+* Reframing Conflict: The Superpower of Nonviolent Communication ([AgileKC](https://www.meetup.com/agile-kc/events/304365518/?eventOrigin=group_events_list))
+* Organizational Agility is a Journey ([AgileKC](https://www.meetup.com/agile-kc/events/271192501/?eventOrigin=group_events_list))
+* Test-Driven Value Proposition: Using Lean Startup Practices to Define Better Customer Value ([Lean-Agile KC 2015](https://2015.leanagilekc.com/sessions/test-driven-value-propositions/)
+
+### 🛠️ Workshops
+
+* Team Canvas Expanded
+* Creating a Reiss Motivation Profile to Navigate Conflict Together
+* Learning How Six Thinking Hats to Experience Different Perspectives
+* Lateral Thinking for Greater Creativity and Collaboration
+
+### 🧰 Resources
+
+* An open source [Individual Development Plan](https://github.com/blakedebray/individual-development-plan) using GitHub Issues, Projects, and Actions
+* [Jira Connect](https://github.com/blakedebray/jiraconnect): Using your Jira data for better understanding your Flow Metrics
+
 ## :books: Resources/Experiences that inspires me
 
 * Book: [Leadership is Language by L. David Marquet](https://www.goodreads.com/book/show/42774083-leadership-is-language)
