@@ -6,6 +6,12 @@
 
 **Team Development -** To build empathy for each other, providing an understanding of the needs of each individual on the team to know how to better support each other. The team learns how each member does not have the same motivators (helps us be aware of our biases and the stories we tell ourselves of others when they behave differently than us).
 
+## Target Audience
+
+- Teams, new or existing, of all kinds (individual contributors, managers, or executives)
+- Groups who work closely together and regularly (working groups that span teams or organizations)
+- Family members
+
 ## Logistics
 
 - **Duration:** 1.5 hours (minimum); 2 hours (ideal)
