@@ -1,5 +1,8 @@
 # :bust_in_silhouette: About Me
 
+> [!NOTE]
+> 🚧 I am in the process of moving most of this content to my [personal webpage](https://blakedebray.github.io)!
+
 :wave: Hello there!
 
 My name is Blake. I am a Program Manager, practicing Professional Coach, an experienced Agile Coach, and a former Engineer (once upon a time).
@@ -58,54 +61,3 @@ I believe in modeling curiousity, especially in situations where I don't agree o
 ### Curiousity
 
 I have a strong curiousity and desire to learn, whether it is to read something new, try something new, or to learn a process in order to contribute towards making it better.
-
-## 🎒Portfolio
-
-Here are a few workshops, presentations, or other tools I have created over the years that I would like to share.
-
-> [!NOTE]
-> 🚧 Under construction with links and resources to each item coming soon!
-
-### Presentations
-
-* Coaching as Leaders: Presence
-* Reframing Conflict: The Superpower of Nonviolent Communication ([AgileKC](https://www.meetup.com/agile-kc/events/304365518/?eventOrigin=group_events_list))
-* Organizational Agility is a Journey ([AgileKC](https://www.meetup.com/agile-kc/events/271192501/?eventOrigin=group_events_list))
-* Test-Driven Value Proposition: Using Lean Startup Practices to Define Better Customer Value ([Lean-Agile KC 2015](https://2015.leanagilekc.com/sessions/test-driven-value-propositions/)
-
-### Workshops
-
-* Team Canvas Expanded
-* Creating a Reiss Motivation Profile to Navigate Conflict Together
-* Learning How Six Thinking Hats to Experience Different Perspectives
-* Lateral Thinking for Greater Creativity and Collaboration
-
-### Resources
-
-* An open source [Individual Development Plan](https://github.com/blakedebray/individual-development-plan) using GitHub Issues, Projects, and Actions
-* [Jira Connect](https://github.com/blakedebray/jiraconnect): Using your Jira data for better understanding your Flow Metrics
- 
-### Programs
-
-* Creating an internal 1:1 coaching program
-* Creating a group coaching program
-* Creating an immersive and unique Onboarding program
-* Creating a community for Managers
-
-## :books: Resources/Experiences that inspires me
-
-* Book: [Leadership is Language by L. David Marquet](https://www.goodreads.com/book/show/42774083-leadership-is-language)
-* Book: [Nonviolent Communication: A Language of Life by Marshall B. Rosenberg](https://www.goodreads.com/book/show/71730.Nonviolent_Communication)
-* Book: [Unlocking Leadership Mindtraps: How to Thrive in Complexity by Jennifer Garvey Burger](https://www.goodreads.com/book/show/43164158-unlocking-leadership-mindtraps)
-* Book: [The Fearless Organization: Creating Psychological Safety in the Workplace for Learning, Innovation, and Growth by Amy C. Edmondson](https://www.goodreads.com/book/show/40275161-the-fearless-organization)
-* Book: [The Art & Science of Facilitation: How to Lead Effective Collaboration with Agile Teams by Marsha Acker](https://www.goodreads.com/book/show/56575741-the-art-science-of-facilitation?from_search=true&from_srp=true&qid=5VlA7hHU8e&rank=1)
-* Book: [Actionable Agile by Daniel S. Vacanti](https://www.goodreads.com/book/show/25867120-actionable-agile-metrics-for-predictability)
-* Book: [The Tyranny of Metrics by Jerry Z. Muller](https://www.goodreads.com/book/show/36644895-the-tyranny-of-metrics)
-* Book: [The Principles of Product Development Flow: Second Generation Lean Product Development by Donald G. Reinertsen](https://www.goodreads.com/book/show/6278270-the-principles-of-product-development-flow?from_search=true&from_srp=true&qid=swp1m3fEah&rank=1)
-* Book: [Inspired: How to Create Tech Products Customers Love by Marty Cagan](https://www.goodreads.com/book/show/35249663-inspired?from_search=true&from_srp=true&qid=0BubMNrWNf&rank=1)
-* Training: [Agile People](https://agilepeople.com/)
-* Training: [Kansas Leadership Institute: Leadership Coach Intensive](https://kansasleadershipcenter.org/intensives/)
-* Coaches (who have coached me and/or that I have had the pleasure to partner with): [Susie Coultis](https://www.linkedin.com/in/susie-coultis-3b63a0), [Rachel Salzberg](https://www.linkedin.com/in/rachel-salzberg-9b59622/), [Barbara Acevedo Visser](https://www.linkedin.com/in/barbara-acevedo-visser/)
-* Self-Assessment and Training: [Reiss Motivation Profile](https://www.reissmotivationprofile.com/)
-* [International Coaching Federation](https://coachingfederation.org/)
-
