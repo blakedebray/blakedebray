@@ -1,7 +1,7 @@
 # :bust_in_silhouette: About Me
 
 > [!NOTE]
-> 🚧 I am in the process of moving most of this content to my [personal webpage](https://blakedebray.github.io)!
+> 🚧 I am in the process of moving most of this content to my [personal webpage](https://www.blakedebray.com)!
 
 :wave: Hello there!
 
